@@ -1,0 +1,30 @@
+D:\Superprof\Hernan Aguero\Clase 8\EjemploFormulario\EjemploFormulario\bin\Debug\EjemploFormulario.exe.config
+D:\Superprof\Hernan Aguero\Clase 8\EjemploFormulario\EjemploFormulario\bin\Debug\EjemploFormulario.exe
+D:\Superprof\Hernan Aguero\Clase 8\EjemploFormulario\EjemploFormulario\bin\Debug\EjemploFormulario.pdb
+D:\Superprof\Hernan Aguero\Clase 8\EjemploFormulario\EjemploFormulario\obj\Debug\EjemploFormulario.csproj.AssemblyReference.cache
+D:\Superprof\Hernan Aguero\Clase 8\EjemploFormulario\EjemploFormulario\obj\Debug\EjemploFormulario.Form1.resources
+D:\Superprof\Hernan Aguero\Clase 8\EjemploFormulario\EjemploFormulario\obj\Debug\EjemploFormulario.Properties.Resources.resources
+D:\Superprof\Hernan Aguero\Clase 8\EjemploFormulario\EjemploFormulario\obj\Debug\EjemploFormulario.csproj.GenerateResource.cache
+D:\Superprof\Hernan Aguero\Clase 8\EjemploFormulario\EjemploFormulario\obj\Debug\EjemploFormulario.csproj.CoreCompileInputs.cache
+D:\Superprof\Hernan Aguero\Clase 8\EjemploFormulario\EjemploFormulario\obj\Debug\EjemploFormulario.exe
+D:\Superprof\Hernan Aguero\Clase 8\EjemploFormulario\EjemploFormulario\obj\Debug\EjemploFormulario.pdb
+C:\Users\Usuario\Downloads\MarisaEFormulario\EjemploFormulario\EjemploFormulario\bin\Debug\EjemploFormulario.exe.config
+C:\Users\Usuario\Downloads\MarisaEFormulario\EjemploFormulario\EjemploFormulario\bin\Debug\EjemploFormulario.exe
+C:\Users\Usuario\Downloads\MarisaEFormulario\EjemploFormulario\EjemploFormulario\bin\Debug\EjemploFormulario.pdb
+C:\Users\Usuario\Downloads\MarisaEFormulario\EjemploFormulario\EjemploFormulario\obj\Debug\EjemploFormulario.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\MarisaEFormulario\EjemploFormulario\EjemploFormulario\obj\Debug\EjemploFormulario.Form1.resources
+C:\Users\Usuario\Downloads\MarisaEFormulario\EjemploFormulario\EjemploFormulario\obj\Debug\EjemploFormulario.Properties.Resources.resources
+C:\Users\Usuario\Downloads\MarisaEFormulario\EjemploFormulario\EjemploFormulario\obj\Debug\EjemploFormulario.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\MarisaEFormulario\EjemploFormulario\EjemploFormulario\obj\Debug\EjemploFormulario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\MarisaEFormulario\EjemploFormulario\EjemploFormulario\obj\Debug\EjemploFormulario.exe
+C:\Users\Usuario\Downloads\MarisaEFormulario\EjemploFormulario\EjemploFormulario\obj\Debug\EjemploFormulario.pdb
+C:\Users\Usuario\OneDrive\Desktop\MarisaEFormulario\EjemploFormulario\EjemploFormulario\obj\Debug\EjemploFormulario.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\MarisaEFormulario\EjemploFormulario\EjemploFormulario\obj\Debug\EjemploFormulario.Form1.resources
+C:\Users\Usuario\OneDrive\Desktop\MarisaEFormulario\EjemploFormulario\EjemploFormulario\obj\Debug\EjemploFormulario.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Desktop\MarisaEFormulario\EjemploFormulario\EjemploFormulario\obj\Debug\EjemploFormulario.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Desktop\MarisaEFormulario\EjemploFormulario\EjemploFormulario\obj\Debug\EjemploFormulario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\MarisaEFormulario\EjemploFormulario\EjemploFormulario\obj\Debug\EjemploFormulario.exe
+C:\Users\Usuario\OneDrive\Desktop\MarisaEFormulario\EjemploFormulario\EjemploFormulario\obj\Debug\EjemploFormulario.pdb
+C:\Users\Usuario\OneDrive\Desktop\MarisaEFormulario\EjemploFormulario\EjemploFormulario\bin\Debug\EjemploFormulario.exe.config
+C:\Users\Usuario\OneDrive\Desktop\MarisaEFormulario\EjemploFormulario\EjemploFormulario\bin\Debug\EjemploFormulario.exe
+C:\Users\Usuario\OneDrive\Desktop\MarisaEFormulario\EjemploFormulario\EjemploFormulario\bin\Debug\EjemploFormulario.pdb
