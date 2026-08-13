@@ -1,0 +1,5 @@
+C:\Users\Usuario\source\repos\RegistroMascotas\RegistroMascotas\obj\Debug\RegistroMascotas.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\RegistroMascotas\RegistroMascotas\obj\Debug\RegistroMascotas.Form1.resources
+C:\Users\Usuario\source\repos\RegistroMascotas\RegistroMascotas\obj\Debug\RegistroMascotas.Properties.Resources.resources
+C:\Users\Usuario\source\repos\RegistroMascotas\RegistroMascotas\obj\Debug\RegistroMascotas.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\RegistroMascotas\RegistroMascotas\obj\Debug\RegistroMascotas.csproj.CoreCompileInputs.cache
