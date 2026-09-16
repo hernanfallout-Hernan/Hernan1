@@ -1,0 +1,5 @@
+C:\Users\Usuario\OneDrive\Desktop\RegistroMascotas\RegistroMascotas\obj\Debug\RegistroMascotasNuevo.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\RegistroMascotas\RegistroMascotas\obj\Debug\RegistroMascotas.Form1.resources
+C:\Users\Usuario\OneDrive\Desktop\RegistroMascotas\RegistroMascotas\obj\Debug\RegistroMascotas.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Desktop\RegistroMascotas\RegistroMascotas\obj\Debug\RegistroMascotasNuevo.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Desktop\RegistroMascotas\RegistroMascotas\obj\Debug\RegistroMascotasNuevo.csproj.CoreCompileInputs.cache
